@@ -1,0 +1,33 @@
+[
+    {
+        "registrationNumber": 1,
+        "vehicleMake": "TVS",
+        "vehicleModel": "150",
+        "vehicleVariant": "Blue",
+        "registrationDate": "07/08/2020",
+        "manfactueYear": "17/06/2005",
+        "rtoCode": "15478",
+        "rtoLocation": "Hyderabad",
+        "fuelType": "petrol",
+        "engineNo": "5879415369",
+        "chasisNo": "1587932488",
+        "individualOrOrganization": "individual",
+        "firstName": "karthik",
+        "lastName": "bhaskar",
+        "organizationName": "NILL",
+        "permanentAddress": "Hyderabad",
+        "communicationAddress": "Hyderabad",
+        "phoneNumber": "123456789",
+        "emailAddress": "abc@gamil.com",
+        "dateOfBirth": "07/12/1978",
+        "nomineeName": "raju",
+        "nomineeAge": "25",
+        "nomineeRelationship": "father",
+        "insuranceProvider": "Bajaj",
+        "policyNumber": "547891235",
+        "policyType": "full-time",
+        "policyTerm": "50",
+        "riskStartDate": "07/08/2020",
+        "riskEndDate": "07/08/2070"
+    }
+]

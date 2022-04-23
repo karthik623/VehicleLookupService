@@ -1,0 +1,33 @@
+[
+    {
+        "registrationNumber": 2,
+        "vehicleMake": "Apache",
+        "vehicleModel": "200",
+        "vehicleVariant": "Black",
+        "registrationDate": "15/07/2016",
+        "manfactueYear": "23/11/2000",
+        "rtoCode": "35741",
+        "rtoLocation": "Chennai",
+        "fuelType": "petrol",
+        "engineNo": "1789456872",
+        "chasisNo": "5789135478",
+        "individualOrOrganization": "individual",
+        "firstName": "Ram",
+        "lastName": "Kumar",
+        "organizationName": "NOT APPLICABLE",
+        "permanentAddress": "Chennai",
+        "communicationAddress": "Chennai",
+        "phoneNumber": "789418933",
+        "emailAddress": "xyz@gamil.com",
+        "dateOfBirth": "25/10/1997",
+        "nomineeName": "Ramesh",
+        "nomineeAge": "75",
+        "nomineeRelationship": "Uncle",
+        "insuranceProvider": "AMC",
+        "policyNumber": "87915468",
+        "policyType": "full-coverage",
+        "policyTerm": "10",
+        "riskStartDate": "15/07/2016",
+        "riskEndDate": "15/07/2026"
+    }
+]
